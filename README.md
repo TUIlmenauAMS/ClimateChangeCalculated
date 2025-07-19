@@ -17,7 +17,7 @@ In German:
 YouTube Klimawandel Nachgerechnet:
 https://youtu.be/Svg1vLy7iok
 
-Slides: EvDurabiltiySlidesNotesDe.pdf
+Slides: [EvDurabiltiySlidesNotesDe.pdf](EvDurabiltiySlidesNotesDe.pdf)
 
 
 
