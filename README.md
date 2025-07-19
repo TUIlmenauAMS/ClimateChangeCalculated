@@ -1,6 +1,6 @@
 # This is a repository for the slides and jupyter notebooks for my YouTube series on "Climate Change Calculated" and "Klimawandel Nachgerechnet".
 
-Episobde 9, "Durability and Convenience of Electric Vehicles"
+## Episobde 9, "Durability and Convenience of Electric Vehicles"
 
 YouTube Media Technology Channel:
 https://youtu.be/FuHFxwAI-oE
@@ -8,8 +8,20 @@ https://youtu.be/FuHFxwAI-oE
 Climate Change Calculated Channel:
 https://youtu.be/hEaMzKHlNfQ
 
+Slides: EvDurabiltiySlidesNotesEn.pdf
 
-The overview page at TU Ilmenau for this series is:
+Python script: ev_vs_ice_value_decay.py
+
+In German:
+
+YouTube Klimawandel Nachgerechnet:
+https://youtu.be/Svg1vLy7iok
+
+Slides: EvDurabiltiySlidesNotesDe.pdf
+
+
+
+## The overview page at TU Ilmenau for this series is:
 
 https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/applied-media-systems-group/research-and-study-projects/climate-change-calculated-2
 
