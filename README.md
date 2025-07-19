@@ -8,7 +8,7 @@ https://youtu.be/FuHFxwAI-oE
 Climate Change Calculated Channel:
 https://youtu.be/hEaMzKHlNfQ
 
-Slides: [slides](EvDurabiltiySlidesNotesEn.pdf)
+Slides: [EvDurabiltiySlidesNotesEn.pdf](EvDurabiltiySlidesNotesEn.pdf)
 
 Python script: ev_vs_ice_value_decay.py
 
