@@ -1,6 +1,6 @@
 # This is a repository for the slides and jupyter notebooks for my YouTube series on "Climate Change Calculated" and "Klimawandel Nachgerechnet".
 
-## Episobde 9, "Durability and Convenience of Electric Vehicles"
+## Episode 9, "Durability and Convenience of Electric Vehicles"
 
 YouTube Media Technology Channel:
 https://youtu.be/FuHFxwAI-oE
