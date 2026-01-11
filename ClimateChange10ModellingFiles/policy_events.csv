@@ -1,0 +1,58 @@
+Country,Year,Policy_Title,Policy_Description,Status,Source
+Norway,2016,Full VAT Exemption,25% VAT exemption on EVs up to NOK 500000,Implemented,elbil.no
+Norway,2016,No Road Tolls,EVs exempt from toll roads nationally,Implemented,elbil.no
+Norway,2016,Bus Lane Access,EVs allowed in bus lanes in major cities,Implemented,elbil.no
+Norway,2016,Higher Vehicle Weight Fee,Introduced weight-based fees on EVs post‑500kg,Implemented,toll.no
+Norway,2017,Zero‑Emission Vehicle Target,All new passenger cars to be ZEV by 2025,Implemented,wikipedia EVs in Norway
+Norway,2018,NTP Transport Plan EVs by 2025,Plan mandates all new cars/buses be ZEV by 2025,Implemented,wikipedia EVs in Norway
+Norway,2019,Public EV Charger Funding,State funding for fast-charging installation,Implemented,elbil.no
+Norway,2020,Company Car Tax Reduction,Reduced company car tax rates for EVs,Implemented,elbil.no
+Norway,2021,Extended VAT Exemption,Maintained exemption on EVs ≤ NOK 500K through 2026,Implemented,vatupdate 2024
+Norway,2021,Public Fleet ZEV Mandate,All new public cars & buses to be ZEV from 2022–2025,Implemented,wikipedia EVs in Norway
+Norway,2022,Fuel Tax Increase,Higher petrol & diesel taxes to encourage EVs,Implemented,thenorwayguide.com
+Norway,2022,EU AFIR Alignment,Complying with EU charger infrastructure law,Implemented,elbil.no
+Norway,2023,VAT Partial Reintroduction,25% VAT on EVs > NOK 500K,Implemented,elbil.no
+Norway,2023,National Heavy‑Duty ZEV Target,All new heavy trucks/buses to be ZEV by 2030,Implemented,elbil.no
+Norway,2025,Zero‑Emission Zones Expansion,Creation of EV-only city zones,Planned,elbil.no
+Norway,2027,All‑Bus ZEV Mandate,All new public buses must be zero-emission,Planned,elbil.no
+Germany,2016,Environmental Bonus Launch,€4k subsidy for BEVs and €3k for PHEVs,Implemented,bmwi.de
+Germany,2016,Electric Mobility Law (EmoG),Grants EVs special parking toll and bus-lane access,Implemented,bmvi.de
+Germany,2017,Charging Infrastructure Funding,€300m for public charging station rollout,Implemented,bmwi.de
+Germany,2017,Municipal Fleet EV Procurement,Local governments encouraged to buy EVs,Implemented,bmu.de
+Germany,2019,CO2 Fleet Emission Rules,Stricter CO₂ targets per manufacturer,Implemented,bundesregierung.de
+Germany,2020,Environmental Bonus Increase,Boosted EV subsidy up to €9k total,Implemented,bmwi.de
+Germany,2020,BIL Charging Funds,€2.5bn for EV charging in recovery package,Implemented,bmvi.de
+Germany,2021,Company Car Tax Reduction,1% rule maintained for EVs as fringe benefit,Implemented,bundesfinanzministerium.de
+Germany,2021,Coalition ZEV Target by 2030,Target of 12–15M EVs by 2030 set by coalition,Implemented,bundesregierung.de
+Germany,2021,CO₂ Price Introduction,Carbon pricing introduced for transport fuels,Implemented,bundesfinanzministerium.de
+Germany,2022,ICE Ban Planning by 2035,Commitment to stop new ICE sales by 2035,Implemented,bundesregierung.de
+Germany,2022,AFIR Compliance Plan,Aligned charging targets with EU AFIR regulation,Implemented,bmvi.de
+Germany,2023,Rebate Reduction Plan,Environmental bonus cut by end of 2023,Implemented,bmwi.de
+Germany,2023,Charging Masterplan II,Low-emission zones + 15k chargers by 2030,Implemented,bmvi.de
+Germany,2024,OEM Bonus Continuation,Automaker discounts continue after subsidy ends,Planned,bmwi.de
+Germany,2025,Heavy-Duty EV Strategy,Zero-emission freight truck plan,Planned,bmvi.de
+Germany,2025,Grid Charging Upgrade,300kW+ megawatt hub funding,Planned,bmwi.de
+Germany,2026,Fleet Conversion Mandate,Public fleet to be 80% EV,Planned,bmvi.de
+Germany,2027,Home Charger Subsidy Increase,€1500 grant for domestic chargers,Planned,bmwi.de
+Germany,2028,EV Recycling Regulation,Battery recycling & reuse regulation,Planned,bmu.de
+Germany,2029,EV Export Incentives,Export subsidies for domestic EVs,Planned,bmwi.de
+Germany,2030,EV Policy Review 2030,Government review of EV targets and incentives,Planned,bundesregierung.de
+USA,2016,Federal FAST Act,Authorized EV signage and alt-fuel corridor planning,Implemented,transportation.gov
+USA,2017,EV Everywhere Challenge,DOE initiative for EV cost parity by 2022,Implemented,energy.gov
+USA,2018,CAFE Freeze Proposal,Proposed freezing fuel economy standards,Implemented,nhtsa.gov
+USA,2019,EV Tax Credit Extension Debate,Proposal to extend $7500 EV tax credit,Debated,congress.gov
+USA,2020,California ZEV Target,All new passenger cars to be ZEV by 2035,Implemented,arb.ca.gov
+USA,2021,Executive Order – Clean Cars,Target of 50% EV sales by 2030,Implemented,whitehouse.gov
+USA,2021,NHTSA CAFE Reinstatement,Increased standards to 49 mpg by 2026,Implemented,nhtsa.gov
+USA,2021,IIJA Infrastructure Bill,$7.5B for national EV charging,Implemented,whitehouse.gov
+USA,2022,Inflation Reduction Act – EV Credit,New tax credit rules with sourcing criteria,Implemented,irs.gov
+USA,2022,NAS Charging Action Plan,Target of 500k chargers by 2030,Implemented,transportation.gov
+USA,2023,Charging Reliability Standards,99% uptime and CCS standards,Implemented,fhwa.dot.gov
+USA,2023,California Truck ZEV Mandate,All medium/heavy trucks to be ZEV by 2045,Implemented,arb.ca.gov
+USA,2024,NEVI Formula Program Expansion,$5B for state-level EV charging plans,Planned,fhwa.dot.gov
+USA,2025,Federal ZEV Standard Proposal,Nationwide ZEV sales targets,Planned,epa.gov
+USA,2026,Federal Battery Recycling Act,EPR policies for EV battery recycling,Planned,congress.gov
+USA,2027,EV Workforce Reskilling Fund,Funds for ICE worker retraining,Planned,energy.gov
+USA,2028,EV Grid Resilience Fund,$3B for grid + charging upgrades,Planned,energy.gov
+USA,2029,USPS EV Fleet Target,Electrify 75% of new USPS fleet,Planned,usps.com
+USA,2030,National ZEV Goal,50% of new cars sold to be electric by 2030,Planned,whitehouse.gov
