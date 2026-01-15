@@ -4,6 +4,12 @@
 
 ### EV Adoption, S-Curves, and the 2035 Combustion Engine Phase-Out
 
+Media Technology Channel:
+[https://youtu.be/HUz8tIerYK4](https://youtu.be/HUz8tIerYK4)
+
+Climate Change Channel:
+[https://youtu.be/bTbIrF4YOCY](https://youtu.be/bTbIrF4YOCY)
+
 Why is the automobile industry trying to water down the combustion-engine phase-out in 2035 — even though it is still about 10 years in the future, and countries like Norway have almost already reached this goal?
 
 In this episode, we step back from political claims and headlines and ask a simpler question:
@@ -78,6 +84,9 @@ Video Editor: Gerald Schuller
 ## 🇩🇪 Klimawandel Nachgerechnet – Episode 10
 
 ### E-Auto-Verbreitung, S-Kurven und das Verbrenner-Aus 2035
+
+Klimawandel Kanal:
+[https://youtu.be/e7al399Gg1M](https://youtu.be/e7al399Gg1M)
 
 Warum versucht die Automobilindustrie, das Verbrenner-Aus 2035 aufzuweichen — obwohl es noch etwa 10 Jahre in der Zukunft liegt und Länder wie Norwegen dieses Ziel fast schon erreicht haben?
 
