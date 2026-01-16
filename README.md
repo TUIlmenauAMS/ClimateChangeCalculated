@@ -1,6 +1,6 @@
 # This is a repository for the slides and jupyter notebooks for my YouTube series on "Climate Change Calculated" and "Klimawandel Nachgerechnet".
 
-## 🇬🇧 Climate Change Calculated – Episode 10
+## 🇬🇧 Climate Change Calculated – Episode 10 (German version below)
 
 ### EV Adoption, S-Curves, and the 2035 Combustion Engine Phase-Out
 
